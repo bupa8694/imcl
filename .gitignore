@@ -1113,3 +1113,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,c++,zig,clion,clion+all,pvs,objective-c,visualstudiocode,visualstudio,c,python,pycharm,pycharm+all
 *.ini
+.vscode/launch.json
