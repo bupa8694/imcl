@@ -1116,3 +1116,8 @@ FodyWeavers.xsd
 .vscode/launch.json
 .vscode/settings.json
 .qodo
+.specstory/history/2024-11-29_02-29Z-creating-a-cmake-file-for-a-c++-library.md
+.specstory/history/2024-11-29_05-04Z-cmake-configuration-for-dynamic-and-static-libraries.md
+.specstory/history/2024-11-29_10-29Z-error-troubleshooting-in-source-code.md
+.specstory/history/2024-11-29_10-30Z-decorating-code-lines-with-comments.md
+.specstory/history/2025-01-08_03-55Z-differences-between-copilot-free-and-pro.md
