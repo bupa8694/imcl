@@ -1115,3 +1115,4 @@ FodyWeavers.xsd
 *.ini
 .vscode/launch.json
 .vscode/settings.json
+.qodo
