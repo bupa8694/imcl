@@ -69,7 +69,7 @@ int main(int argc, char *argv[]) {
   
   return 0;
 }
-
+// dummy changes for git
 // Anti-debugging techniques
 bool checkForDebugger() {
 #ifdef __linux__
