@@ -23,7 +23,7 @@
 
 #endif
 
-// commit for ammend
+// commit for ammend 2
 // Function prototypes for security checks
 bool checkForDebugger();
 bool checkForHooks();
